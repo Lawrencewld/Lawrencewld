@@ -1,6 +1,6 @@
 <!-- ─────────────────────────────  PROFILE README  ──────────────────────────── -->
 <h1 align="center">Hey 👋, I’m Ledi Wang</h1>
-<h3 align="center">Medical-Physics Graduate student · CS & Physics · 🚀 AI-for-Radiation-Oncology advocate</h3>
+<h3 align="center">Medical-Physics Graduate student · CS & Physics · 🚀 AI-for-Radiation-Oncology</h3>
 
 <div align="center">
   <a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-green?logo=orcid" /></a>
