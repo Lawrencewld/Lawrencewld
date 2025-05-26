@@ -5,9 +5,13 @@
 <div align="center">
   <a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-green?logo=orcid" /></a>
   <a href="https://scholar.google.com/citations?user=<id>"><img src="https://img.shields.io/badge/Google Scholar-blue?logo=google-scholar" /></a>
-  <a href="https://www.linkedin.com/in/<id>/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=<username>&style=flat-square" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/ledi-wang-908697287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" /></a>
 </div>
+---
+<!-- Profile banner -->
+<p align="center">
+  <img src="banner.png" alt="AI-powered Medical Physics" width="100%">
+</p>
 
 ---
 
