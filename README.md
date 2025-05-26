@@ -1,5 +1,5 @@
 <!-- ─────────────────────────────  PROFILE README  ──────────────────────────── -->
-<h1 align="center">Hey 👋, I’m <Ledi Wang></h1>
+<h1 align="center">Hey 👋, I’m Ledi Wang</h1>
 <h3 align="center">Medical-Physics Graduate student · CS & Physics · 🚀 AI-for-Radiation-Oncology advocate</h3>
 
 <div align="center">
